@@ -20,16 +20,16 @@ This challenge intentionally preserves some compile errors and logic bugs. Examp
 
 ## Sample Output Format (Values Illustrative Only)
 ```
-Total Revenue (USD): 5331.90
+Total Revenue (USD): 4309.92
 Top Customers:
   C002 1429.45
-  C003 1306.50
-  C001 1211.96
-Avg Order Value Last 30d (USD): 644.85
+  C001 1011.97
+  C003 984.50
+Avg Order Value Last 30d (USD): 383.32
 Tax By Region:
-  US: 114.79
+  US: 65.79
   EU: 592.41
-  APAC: 57.40
+  APAC: 25.20
 ```
 
 ## Data File
